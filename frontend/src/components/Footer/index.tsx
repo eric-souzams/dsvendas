@@ -3,7 +3,7 @@ const Footer = () => {
     <footer className="footer mt-auto py-3 bg-dark">
       <div className="container">
         <p className="text-light"><small><strong>Semana Spring React</strong><br />
-      DsVendas &copy; 2021 - Todos os direitos reservados</small></p>
+       &copy; 2021 - DsVendas</small></p>
       </div>
     </footer>
   );

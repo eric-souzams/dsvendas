@@ -14,11 +14,9 @@
 ## About
 <strong>DsVendas</strong> is a platform for sales analysis!
 
-This is a project developed during the **[Semana React Spring](https://devsuperior.com.br/)**, presented by **[@DevSuperior](https://github.com/devsuperior)** during May 03-09, 2021.
-
 ## Preview
 <p align="center">
-  <img src="./public/screens/home.png"/>
+  <img src="./public/assets/home.png"/>
 </p>
 
 
@@ -36,7 +34,7 @@ You'll need [Java 11+](https://www.oracle.com/br/java/technologies/javase-jdk11-
 ```bash
 git clone https://github.com/eric-souzams/dsvendas.git
 $ cd dsvendas/backend
-$ ./mvnw spring-boot:run
+$ ./mvn spring-boot:run
 ```
 
 ---
