@@ -12,11 +12,11 @@
 </p>
 
 ## About
-<strong>DsVendas</strong> is a platform for sales analysis!
+The <strong>DsVendas</strong> it is a platform to analyze the sales of active employees in the company!
 
 ## Preview
 <p align="center">
-  <img src="./public/assets/home.png"/>
+  <img src="./frontend/public/assets/dashboard.png"/>
 </p>
 
 
@@ -28,13 +28,13 @@ This project was developed using the following technologies:
 
 ## Building
 
-You'll need [Java 11+](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html) installed on your computer in order to build this app.
+You'll need [Java 11+](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html) and [Maven](https://maven.apache.org/download.cgi) installed on your computer in order to build this app.
 
 
 ```bash
 git clone https://github.com/eric-souzams/dsvendas.git
 $ cd dsvendas/backend
-$ ./mvn spring-boot:run
+$ mvn spring-boot:run
 ```
 
 ---
@@ -47,7 +47,7 @@ This project was developed using the following technologies:
 
 ## Building
 
-You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
+You'll need [Node.js](https://nodejs.org) and [Yarn](https://classic.yarnpkg.com/en/docs/install/) installed on your computer in order to build this app.
 
 ```bash
 git clone https://github.com/eric-souzams/dsvendas.git
